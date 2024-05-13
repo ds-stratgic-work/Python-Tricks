@@ -11,4 +11,6 @@ in efficiency. Let's explore nine of these approaches that can revolutionize the
 
 ### Technologies
 * Python
-* Jupyter Notebook 
+* Jupyter Notebook
+
+  Github: https://github.com/ds-stratgic-work/Python-Tricks.git 
