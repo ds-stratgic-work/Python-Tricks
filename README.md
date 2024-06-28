@@ -13,4 +13,6 @@ in efficiency. Let's explore nine of these approaches that can revolutionize the
 * Python
 * Jupyter Notebook
 
-  Github: https://github.com/ds-stratgic-work/Python-Tricks.git 
+  Reference:
+  https://medium.com/techtofreedom/9-subtle-tricks-to-make-your-python-code-much-faster-50be6dd69a30 
+  
